@@ -26,48 +26,64 @@ Genre & Media Type – Metadata tables defining track genres and formats.
 
 Relationships between the tables are visualized using an ER diagram to help understand foreign key constraints and data flow.
 
+
 🔍 Features & Query Categories:
 The project is divided into three sets of SQL queries:
 
 🔹 Question Set 1 – Easy
 Identify the senior-most employee by title
+
 Determine the countries with the most invoices
+
 Find the top 3 highest invoice totals
+
 Discover the most profitable city
+
 Identify the customer who spent the most
 
 🔹 Question Set 2 – Moderate
 Find all customers who listen to Rock music
+
 Identify top 10 artists with the most Rock songs
+
 List tracks longer than the average song length
 
 🔹 Question Set 3 – Advanced
 Calculate how much each customer spent on top artists
+
 Determine the most popular genre by country
+
 Identify top-spending customers by country
+
 
 These queries utilize:
 
 Joins (INNER, LEFT, etc.)
+
 Aggregation functions (SUM, COUNT, AVG)
+
 Subqueries
+
 Common Table Expressions (CTEs)
+
 Window Functions (ROW_NUMBER)
 
+
 🛠️ Tools & Technologies Used:
+
 MySQL / SQL
+
 ER Diagram Tools (for schema visualization)
+
 DBMS Concepts – Normalization, Entity-Relationship Modelling
+
 SQL Techniques – Data aggregation, filtering, ranking, joins, CTEs
 
-🎯 Key Learning Outcomes:
-Learn how to write efficient SQL queries to answer business questions
-Understand how relational databases are structured and connected
-Develop analytical thinking with real-world datasets
-Practice with advanced SQL concepts like CTEs and window functions
-Gain hands-on experience that simulates real company database environments
 
 🚀 How It Works:
+
 The database is created and populated with tables representing music-related entities.
+
 SQL queries are written to analyze different aspects such as customer spending, artist performance, and regional sales trends.
+
 Results from these queries provide valuable business insights that can inform marketing campaigns, artist promotions, and customer targeting strategies.
