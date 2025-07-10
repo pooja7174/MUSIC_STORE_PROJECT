@@ -13,11 +13,17 @@ The music store database includes the following key tables:
 Customer – Contains customer information including contact details and support rep ID.
 
 Employee – Stores staff details and their reporting hierarchy.
+
 Invoice & Invoice Line – Represents purchase transactions and their individual track details.
+
 Track – Details of each music track including album, genre, media type, and pricing.
+
 Album & Artist – Information about music albums and associated artists.
+
 Playlist & Playlist Track – User-created playlists and associated tracks.
+
 Genre & Media Type – Metadata tables defining track genres and formats.
+
 Relationships between the tables are visualized using an ER diagram to help understand foreign key constraints and data flow.
 
 🔍 Features & Query Categories:
