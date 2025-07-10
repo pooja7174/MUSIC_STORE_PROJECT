@@ -28,32 +28,36 @@ Relationships between the tables are visualized using an ER diagram to help unde
 
 
 🔍 Features & Query Categories:
+
 The project is divided into three sets of SQL queries:
 
 🔹 Question Set 1 – Easy
-Identify the senior-most employee by title
 
-Determine the countries with the most invoices
+  Identify the senior-most employee by title
 
-Find the top 3 highest invoice totals
+  Determine the countries with the most invoices
 
-Discover the most profitable city
+  Find the top 3 highest invoice totals
 
-Identify the customer who spent the most
+  Discover the most profitable city
+
+  Identify the customer who spent the most
 
 🔹 Question Set 2 – Moderate
-Find all customers who listen to Rock music
 
-Identify top 10 artists with the most Rock songs
+   Find all customers who listen to Rock music
+ 
+   Identify top 10 artists with the most Rock songs
 
-List tracks longer than the average song length
+   List tracks longer than the average song length
 
 🔹 Question Set 3 – Advanced
-Calculate how much each customer spent on top artists
 
-Determine the most popular genre by country
+   Calculate how much each customer spent on top artists
 
-Identify top-spending customers by country
+   Determine the most popular genre by country
+
+   Identify top-spending customers by country
 
 
 These queries utilize:
