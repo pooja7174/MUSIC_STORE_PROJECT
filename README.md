@@ -11,6 +11,7 @@ The project is ideal for practicing real-world SQL querying and database analysi
 The music store database includes the following key tables:
 
 Customer – Contains customer information including contact details and support rep ID.
+
 Employee – Stores staff details and their reporting hierarchy.
 Invoice & Invoice Line – Represents purchase transactions and their individual track details.
 Track – Details of each music track including album, genre, media type, and pricing.
