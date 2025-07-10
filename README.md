@@ -3,11 +3,12 @@
 📌 Relational Database Design & SQL Querying for a Digital Music Store
 
 🧾 Overview:
-This project is a comprehensive SQL-based analysis of a digital music store's database. It includes the design, understanding, and querying of a normalized relational database that manages customer details, music tracks, albums, artists, invoices, employees, and playlists.
+     This project is a comprehensive SQL-based analysis of a digital music store's database. It includes the design, understanding, and querying of a normalized relational database that manages customer details,  music tracks, albums, artists, invoices, employees, and playlists.
 
-The project is ideal for practicing real-world SQL querying and database analysis skills using structured and meaningful business-related questions, ranging from basic SELECT statements to advanced CTEs and window functions.
+  The project is ideal for practicing real-world SQL querying and database analysis skills using structured and meaningful business-related questions, ranging from basic SELECT statements to advanced CTEs and window functions.
 
 🧩 Database Schema:
+
 The music store database includes the following key tables:
 
 Customer – Contains customer information including contact details and support rep ID.
@@ -60,28 +61,28 @@ The project is divided into three sets of SQL queries:
    Identify top-spending customers by country
 
 
-These queries utilize:
+ 🎯 These queries utilize:
 
-Joins (INNER, LEFT, etc.)
+  a. Joins (INNER, LEFT, etc.)
 
-Aggregation functions (SUM, COUNT, AVG)
+  b. Aggregation functions (SUM, COUNT, AVG)
 
-Subqueries
+  c. Subqueries
 
-Common Table Expressions (CTEs)
+  d. Common Table Expressions (CTEs)
 
-Window Functions (ROW_NUMBER)
+  e. Window Functions (ROW_NUMBER)
 
 
 🛠️ Tools & Technologies Used:
 
-MySQL / SQL
+   1. MySQL / SQL
 
-ER Diagram Tools (for schema visualization)
+  2. ER Diagram Tools (for schema visualization)
 
-DBMS Concepts – Normalization, Entity-Relationship Modelling
+  3. DBMS Concepts – Normalization, Entity-Relationship Modelling
 
-SQL Techniques – Data aggregation, filtering, ranking, joins, CTEs
+  4. SQL Techniques – Data aggregation, filtering, ranking, joins, CTEs
 
 
 🚀 How It Works:
